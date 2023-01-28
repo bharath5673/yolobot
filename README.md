@@ -49,6 +49,7 @@ ___
 ![Screenshot from 2023-01-28 16-55-02](https://user-images.githubusercontent.com/33729709/215265729-31d9f9b0-79ff-453e-9941-c39312bd6aa7.png)
 
 
+### on new terminal 
 
 ```bash
 
