@@ -17,7 +17,7 @@ ___
 
 ### steps for setting up
 git clone https://github.com/bharath5673/yolobot.git
-cd ros_ws
+cd yolobot
 colcon build
 cd ..
 
